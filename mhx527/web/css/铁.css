@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+.logo h1{
+    font-size: 35;
+    letter-spacing: 1;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+    background: #333;
+    box-shadow: 0 1px 2px #666 ;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    color:#fff;
+          
+}
+.nav ul li{
+    list-style: none;
+    margin: 0 20px;
+}
+.nav ul li a{
+    color:rgb(42, 12, 154);
+    text-decoration: none;
+
+}
+.nav ul li a:hover{
+    color:#ce8460;
+
+}
+.expression h1{
+color:violet;
+
+}
+.expression p{
+    color: cornflowerblue;
+}
+.geng{
+    text-align: center;
+}
+.juese h1{
+    color: crimson;
+}
+.juese h2{
+    color: blueviolet;
+}
+.juese h3{
+    color: green;
+}
+.juese h4{
+    color:lightskyblue;
+}
+.juese p{
+   color: sandybrown;
+}
+.hh a{
+    color:darkgreen;
+    text-decoration: none;
+
+}
+.hh a:hover{
+    color:#ce8460;
+
+}
+.hh p{
+    color: aqua;
+}

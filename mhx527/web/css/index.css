@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.nav{
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
+    background: #333;
+    box-shadow: 0 1px 2px #666 ;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    color:#fff;
+          
+}
+.nav ul li{
+    list-style: none;
+    margin: 0 20px;
+}
+.nav ul li a{
+    color:rgb(42, 12, 154);
+    text-decoration: none;
+
+}
+.nav ul li a:hover{
+    color:#ce8460;
+
+}
+.begin{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+    
+
+}
+.begin h1{
+    font-size: 40px;
+    letter-spacing: 1px;
+    margin: 2px 2px;
+    color: crimson;
+}
+.begin p{
+    color: dodgerblue;
+    font-size: 40px;
+}
+.tie{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+.tie h2{
+    color: blueviolet;
+}
+.tie h3{
+    color: aqua;
+}
+.芙芙{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+}
+.芙芙 h1{
+    color: cyan;
+}
+.芙芙 h2{
+    color: aquamarine;
+}
+.三{
+    width: 100%;
+    text-align: center;
+    margin: 20px 0;
+
+}
+.三 h2{
+    color: gold;
+}
+.三 p{
+    
+}
+.三 a{
+    color: blue;
+    text-decoration: none;
+}
+.三 a:hover{
+    color:#ce8460;
+}
